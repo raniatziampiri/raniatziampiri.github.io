@@ -18,7 +18,7 @@ layout: page
 “ADR Group Accredited Civil & Commercial Mediator”.
 
 ##Επικοινωία
-![Χάρτης](https://www.google.com/maps/place/%CE%A1%CE%AC%CE%BD%CE%B9%CE%B1+%CE%94.+%CE%A4%CE%B6%CE%B9%CE%B1%CE%BC%CF%80%CE%AF%CF%81%CE%B7+-+%CE%94%CE%B9%CE%BA%CE%B7%CE%B3%CF%8C%CF%81%CE%BF%CF%82,+%CE%94%CE%B9%CE%B1%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%B7+%CE%94%CE%B9%CE%B1%CE%BC/data=!3m1!4b1!4m2!3m1!1s0x14a839a4c14cab9b:0xed75a10ef763eccf "Χάρτης")
+[Χάρτης!](https://www.google.com/maps/place/%CE%A1%CE%AC%CE%BD%CE%B9%CE%B1+%CE%94.+%CE%A4%CE%B6%CE%B9%CE%B1%CE%BC%CF%80%CE%AF%CF%81%CE%B7+-+%CE%94%CE%B9%CE%BA%CE%B7%CE%B3%CF%8C%CF%81%CE%BF%CF%82,+%CE%94%CE%B9%CE%B1%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%B7+%CE%94%CE%B9%CE%B1%CE%BC/data=!3m1!4b1!4m2!3m1!1s0x14a839a4c14cab9b:0xed75a10ef763eccf "Χάρτης")
 
 
 <!--
