@@ -1,6 +1,6 @@
 ---
 title: My page
-layout: home
+layout: page
 ---
 
 # {{ page.title }}
